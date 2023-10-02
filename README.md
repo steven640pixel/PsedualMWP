@@ -1,5 +1,5 @@
 ## Solving Math Word Problems with Re-examination 
-The code is the implementation of PseDual.
+The code is the implementation of PseDual for reexamination.
 
 ### Requirements
 * Pytorch = 1.6.0;
