@@ -1,4 +1,4 @@
-## Solving Math Word Problems with Reexamination 
+## Solving Math Word Problems with Re-examination 
 The code is the implementation of PseDual.
 
 ### Requirements
