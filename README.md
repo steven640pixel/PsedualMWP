@@ -1,4 +1,4 @@
-## PseudoDual Learning for Math Word Problem Solving  
+## Solving Math Word Problems with Reexamination 
 The code is the implementation of PseDual.
 
 ### Requirements
